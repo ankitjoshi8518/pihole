@@ -1,0 +1,2 @@
+#I found one of my day to day website did not work. Run the following command to see the list in which the domain is present:
+pihole -q -all worldometers.info
